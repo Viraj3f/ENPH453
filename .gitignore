@@ -1,0 +1,12 @@
+# System/editor related files
+*.swp
+*.o
+.DS_Store
+.vscode/
+
+# Python related files
+__pycache__/
+.mypy_cache/
+*.pyc
+.ipynb_checkpoints/
+
